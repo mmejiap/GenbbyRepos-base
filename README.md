@@ -1,17 +1,9 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+# Plataforma Web - Practica - meteor & react + (mongoDB)
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.12.0</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.3.1</td>
-    </tr>
-  </tbody>
-</table>
-
+* para descargar
+    - git clone git@github.com:mmejiap/GenbbyRepos-base.git <nombreDirectorio>
+    - ingresar a 'nombreDirectorio' con 'cd nombreDirectorio'
+    - ejecutar: 'meteor npm install'
+    - 'meteor npm start' o 'meteor'
+    - Plataforma ejecutandose ..... !!!
 [Read the Documentation](http://themeteorchef.com/base)
